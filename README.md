@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ei-shadi/ei-shadi/refs/heads/main/Banner.png" alt="Welcome Banner" style="border-radius:12px; max-width:100%; height:auto;" />
+  <img src="https://raw.githubusercontent.com/Sheikh-Reaz/Sheikh-Reaz/refs/heads/main/WhatsApp%20Image%202025-12-31%20at%206.32.16%20PM.jpeg" alt="Welcome Banner" style="border-radius:12px; max-width:100%; height:auto;" />
 </p>
 
 <div style="display: flex; justify-content: center; margin-top: 5rem; margin-bottom: 5rem;">
