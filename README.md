@@ -12,7 +12,7 @@
 
 <div style="display: flex; justify-content: center; margin-top: 5rem; margin-bottom: 5rem;">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Mozilla+Headline&size=54&duration=3000&pause=1000&color=ed5a00&center=true&vCenter=true&width=1400&lines=I+am+Eftajul+Islam+Shadi;Full+Stack+Developer;I+thrive+on+exploring+new+technologies;And+solving+complex+problems.;Building+scalable%2C+high-impact+web+applications👀"
+    src="https://readme-typing-svg.herokuapp.com?font=Mozilla+Headline&size=54&duration=3000&pause=1000&color=ed5a00&center=true&vCenter=true&width=1400&lines=I+am+Sheikh+Reaz;MERN+Stack+Developer;I+thrive+on+exploring+new+technologies;And+solving+complex+problems.;Building+scalable%2C+high-impact+web+applications👀"
     alt="Typing SVG"
     style="max-width: 100%; height: auto;" />
 </div>
@@ -22,13 +22,13 @@
 <!-- 🧑‍💻 About Me -->
 <h1 align="center" style="font-size: 2rem; margin-top: 3rem;">🧑‍💻 About Me</h1>
 <h3>
-  I'm a passionate Full Stack Developer skilled in building responsive, high-performance web applications with HTML, CSS, Tailwind CSS, JavaScript and TypeScript. I focus on creating dynamic, user-friendly interfaces using React and Next.js, while developing secure and scalable backends with Node.js, Express.js, and MongoDB. I also work with Firebase to implement real-time features and authentication. What excites me most is turning ideas into clean, efficient, and maintainable code while delivering complete, end-to-end solutions using modern web technologies.
+  I'm a passionate MERN Stack Developer skilled in building responsive, high-performance web applications with HTML, CSS, Tailwind CSS and JavaScript . I focus on creating dynamic, user-friendly interfaces using React and Next.js, while developing secure and scalable backends with Node.js, Express.js, and MongoDB. I also work with Firebase to implement real-time features and authentication. What excites me most is turning ideas into clean, efficient, and maintainable code while delivering complete, end-to-end solutions using modern web technologies.
 </h3>
 
 <h3>💡 What I've learned so far:</h3>
 <ul>
   <li>HTML, CSS, Tailwind CSS</li>
-  <li>JavaScript, TypeScript, React & Next.js</li>
+  <li>JavaScript, React & Next.js</li>
   <li>Firebase (Authentication & Firestore)</li>
   <li>Node.js, Express.js</li>
   <li>MongoDB</li>
@@ -37,6 +37,7 @@
 <h3>🌟 Next up in my development journey:</h3>
 <ul>
   <li>Redux for state management</li>
+  <li> Typescript  </li>
   <li>SQL, PostgreSQL & Prisma for advanced database handling</li>
   <li>Docker for containerization</li>
   <li>AWS for cloud services and deployment</li>
@@ -47,10 +48,10 @@
 <h3 align="center" style="margin-top: 2rem;">📫 Get in Touch</h3>
 <p align="center" style="font-size: 1rem;">
   <strong>Email:</strong> 
-  <a href="mailto:eftajul.shadi@gmail.com" style="color:#4EA1D3; font-weight:700;">eftajul.shadi@gmail.com</a>
+  <a href="mailto:skreazuddin87@gmail.com" style="color:#4EA1D3; font-weight:700;">skreazuddin87@gmail.com</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <strong>WhatsApp:</strong> 
-  <a href="https://wa.me/8801930242273" style="color:#0ea5e9; font-weight:700;">+880 1930 242273</a>
+  <a href="https://wa.me/8801732341721" style="color:#0ea5e9; font-weight:700;">+880 1732 341721</a>
 </p>
 
 <h3 align="center" style="font-size:1.2rem;">
@@ -70,7 +71,7 @@
 
 | **Skills Overview**       | **Technologies**                                                                                                                                                          |
 |---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Languages**             | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
+| **Languages**             | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)  |
 | **Frontend Technologies** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss) ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=nextdotjs) |
 | **Back-End Development**  | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white) |
 | **Database**              | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
@@ -85,11 +86,10 @@
 
 <section id="contact" style="color: #fff; padding: 2rem; background-color: #0e0e0e; border-radius: 10px; max-width: 700px; margin: auto;">
   <ul style="list-style: none; padding-left: 0; text-align: center; font-size: 1rem;">
-    <li><strong>Phone:</strong> <a href="tel:+8801930242273" style="color: #4EA1D3;">+880 1930 242273 (Whatsapp)</a></li>
-    <li><strong>Email:</strong> <a href="mailto:eftajul.shadi@gmail.com" style="color: #4EA1D3;">eftajul.shadi@gmail.com</a></li>
-    <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/eftajulislamshadi" target="_blank" style="color: #4EA1D3;">linkedin.com/in/eftajulislamshadi</a></li>
-    <li><strong>Portfolio:</strong> <a href="https://eftajulislamshadi.vercel.app" target="_blank" style="color: #4EA1D3;">https://eftajulislamshadi.vercel.app</a></li>
-    <li><strong>Facebook:</strong> <a href="https://www.facebook.com/eftajulislamshadi" target="_blank" style="color: #4EA1D3;">facebook.com/eftajulislamshadi</a></li>
+    <li><strong>Phone:</strong> <a href="tel:+8801732341721" style="color: #4EA1D3;">+880 1732 341721 (Whatsapp)</a></li>
+    <li><strong>Email:</strong> <a href="mailto:skreazuddin87@gmail.com" style="color: #4EA1D3;">skreazuddin87@gmail.com</a></li>
+    <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sheikh-reaz/" target="_blank" style="color: #4EA1D3;">https://www.linkedin.com/in/sheikh-reaz/</a></li>
+    <li><strong>Facebook:</strong> <a href="https://www.facebook.com/sk.reaz.9047" target="_blank" style="color: #4EA1D3;">https://www.facebook.com/sk.reaz.9047</a></li>
   </ul>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; margin-top: 1.5rem; gap: 12px;">
     <a href="https://wa.me/8801930242273" target="_blank">
@@ -119,15 +119,20 @@
 ---
 
 <!-- 📈 Current Stats -->
-<h1 align="center" style="font-size: 2rem; margin-top: 3rem;">📈 Performance Overview</h1>
 
-<div align="center" style="display: flex; justify-content: center; gap: 50px; ">
-  <img src="https://github-readme-stats.vercel.app/api?username=ei-shadi&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ei-shadi&theme=midnight-purple&hide_border=false" height="180" />
-</div>
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ei-shadi&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" />
-</div>
+
+
+<h1 align="center" style="font-size: 2rem; margin-top: 3rem;">📊 GitHub Stats:</h1>
+
+
+![](https://github-readme-stats.vercel.app/api?username=Sheikh-Reaz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sheikh-Reaz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Reaz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Sheikh-Reaz&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- 🐍 Contribution Snake -->
 <div align="center">
@@ -143,3 +148,8 @@
 <p align="center" style="font-size: 1.5rem;">
   ☕ I can turn your Figma dreams into fully functional responsive UIs while sipping tea and blasting lo-fi at 2 AM 🌙🎧
 </p>
+
+
+
+
+
